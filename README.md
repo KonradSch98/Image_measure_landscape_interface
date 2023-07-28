@@ -24,5 +24,5 @@ being the space size of a pixel, its x-size and y-size each in meter
 So to say the space one pixel represents in real world.
 
 
-### original wide lens photo
+### Example
 <img src="example.png">
